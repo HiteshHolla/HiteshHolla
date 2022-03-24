@@ -5,7 +5,7 @@
 Currently on the lookout for entry-level SDE roles in dynamic product based companies
 <br>
 <br>
-Resume Link: <a href="https://drive.google.com/file/d/1vOvpZJplU-8nd27kvXY8vNSVe8EuOMl4/view?usp=sharing">Hitesh_Holla_Resume</a>
+Resume Link: <a href="https://drive.google.com/file/d/1ughIVe0oS_1Rdn5jr9_1QfUyV_-SXHot/view?usp=sharing">Hitesh_Holla_Resume</a>
 <br>
 <br>
 Reach out to me on :
