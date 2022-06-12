@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Hitesh Holla <img src="https://img.icons8.com/color/48/000000/man-raising-hand-icon.png"/></h1>
+<h3 align="center">
 <br>
 <br>
 Currently working as an SDE-1 in the Alexa Wearables team at Amazon 
