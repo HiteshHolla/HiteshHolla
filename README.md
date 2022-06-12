@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Hitesh Holla <img src="https://img.icons8.com/color/48/000000/man-raising-hand-icon.png"/></h1>
-<h3 align="center">Management Professional seeking to shift to Software Development
 <br>
 <br>
-Currently on the lookout for entry-level SDE roles in dynamic product based companies
+Currently working as an SDE-1 in the Alexa Wearables team at Amazon 
 <br>
 <br>
 Resume Link: <a href="https://drive.google.com/file/d/1ughIVe0oS_1Rdn5jr9_1QfUyV_-SXHot/view?usp=sharing">Hitesh_Holla_Resume</a>
